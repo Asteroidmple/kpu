@@ -16,7 +16,7 @@ import SwupParallelPlugin from '@swup/parallel-plugin';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://frosti.saroprock.com',
+  site: 'https://www.kommunist.us.kg',
   style: {
     scss: {
       includePaths: ['./src/styles']
